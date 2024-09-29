@@ -3,8 +3,8 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 # 💫 About Me:
-## I'm **Joyeux Clement Tuyishimire**, a passionate **UI/UX Designer and Front-End Developer** from Rwanda. I am currently a **Student in Front-End Development**,
-## and I love crafting clean, user-friendly interfaces and bringing them to life with code.
+### I'm **Joyeux Clement Tuyishimire**, a passionate **UI/UX Designer and Front-End Developer** from Rwanda. I am currently a **Student in Front-End Development**,
+### and I love crafting clean, user-friendly interfaces and bringing them to life with code.
 
 
 # 💻 Tech Stack:
