@@ -42,16 +42,18 @@
 <!-- ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=joyeuxclement87&theme=algolia&no-frame=true&no-bg=true&margin-w=5)
 
+### 👀 Visitors:
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=joyeuxclement87.joyeuxclement87)
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  -->
 
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joyeux-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tuyishimire-joyeux-clement-32418528a/)
 [![Email](https://img.shields.io/badge/Email-joyeuxclement87%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joyeuxclement87@gmail.com)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/carpricorngboy/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/250790478265)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carpricorn_gboy/)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br>
