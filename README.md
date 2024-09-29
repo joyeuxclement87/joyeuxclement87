@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joyeux clement TUYISHIMIRE</h1>
 <p align="center"><img src="animation.gif" width="500" alt="animation.gif"></p>
-<img src="https://www.canva.com/design/DAGSKbkUpRY/BVz1DfsKn_xVK5GGkkxFvA/view?utm_content=DAGSKbkUpRY&utm_campaign=designshare&utm_medium=link&utm_source=editor">
+![](./Your paragraph text.jpg)
 
 # 💫 About Me:
 I'm **Joyeux Clement Tuyishimire**, a passionate **UI/UX Designer and Front-End Developer** from Rwanda. I am currently a **Student in Front-End Development**,
