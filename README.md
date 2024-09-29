@@ -30,10 +30,9 @@
 <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
 
 <!-- # 📊 GitHub Stats: -->
-![Joyeux's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joyeuxclement87&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![Joyeux's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joyeuxclement87&theme=react&hide_border=false)<br/>
+![Joyeux's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joyeuxclement87&theme=react&hide_border=false&include_all_commits=true&count_private=true)
+![Joyeux's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joyeuxclement87&theme=react&hide_border=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joyeuxclement87&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
