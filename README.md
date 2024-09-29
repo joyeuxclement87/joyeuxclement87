@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joyeux clement TUYISHIMIRE</h1>
 <p align="center"><img src="animation.gif" width="500" alt="animation.gif"></p>
-![](./Your paragraph text.jpg)
+<img src="https://github.com/joyeuxclement87/joyeuxclement87/blob/main/Your%20paragraph%20text.jpg">
 
 # 💫 About Me:
 I'm **Joyeux Clement Tuyishimire**, a passionate **UI/UX Designer and Front-End Developer** from Rwanda. I am currently a **Student in Front-End Development**,
