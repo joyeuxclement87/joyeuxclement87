@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joyeux clement TUYISHIMIRE</h1>
 <p align="center"><img src="animation.gif" width="500" alt="animation.gif"></p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://www.canva.com/design/DAGSKbkUpRY/BVz1DfsKn_xVK5GGkkxFvA/view?utm_content=DAGSKbkUpRY&utm_campaign=designshare&utm_medium=link&utm_source=editor">
 
 # 💫 About Me:
 I'm **Joyeux Clement Tuyishimire**, a passionate **UI/UX Designer and Front-End Developer** from Rwanda. I am currently a **Student in Front-End Development**,
@@ -34,6 +34,6 @@ and I love crafting clean, user-friendly interfaces and bringing them to life wi
 
 
 ### ✍️ Random Dev Quote
-![](https://img.shields.io/badge/-"With%20God,%20all%20things%20are%20possible."-brightgreen)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
