@@ -1,5 +1,24 @@
 <h1 align="center">Hi 👋, I'm Joyeux clement TUYISHIMIRE</h1>
 <p align="center"><img src="animation.gif" width="500" alt="animation.gif"></p>
+ooooo      ooo ooooo   .oooooo.   oooooooooooo      ooooooooooooo   .oooooo.
+`888b.     `8' `888'  d8P'  `Y8b  `888'     `8      8'   888   `8  d8P'  `Y8b
+ 8 `88b.    8   888  888           888                   888      888      888
+ 8   `88b.  8   888  888           888oooo8              888      888      888
+ 8     `88b.8   888  888           888    "              888      888      888
+ 8       `888   888  `88b    ooo   888       o           888      `88b    d88'
+o8o        `8  o888o  `Y8bood8P'  o888ooooood8          o888o      `Y8bood8P'
+
+
+
+ooo        ooooo oooooooooooo oooooooooooo ooooooooooooo      oooooo   oooo   .oooooo.   ooooo     ooo
+`88.       .888' `888'     `8 `888'     `8 8'   888   `8       `888.   .8'   d8P'  `Y8b  `888'     `8'
+888b     d'888   888          888              888             `888. .8'   888      888  888       8
+8 Y88. .P  888   888oooo8     888oooo8         888              `888.8'    888      888  888       8
+8  `888'   888   888    "     888    "         888               `888'     888      888  888       8
+8    Y     888   888       o  888       o      888                888      `88b    d88'  `88.    .8'
+o8o        o888o o888ooooood8 o888ooooood8     o888o              o888o      `Y8bood8P'     `YbodP'
+
+
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 # 💫 About Me:
